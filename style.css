@@ -30,3 +30,8 @@ color:white;
     font-size:20px;
     margin-top: 20px;
 }
+.conteudo{
+    display:flex;
+    flex: 1;
+    gap: 20 px;
+}
